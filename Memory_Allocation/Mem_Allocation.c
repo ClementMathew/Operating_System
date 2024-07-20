@@ -2,6 +2,7 @@
 // 1.Firstfit
 // 2.WorstFit
 // 3.BestFit
+
 #include <stdio.h>
 
 void firstfit(int, int, int[], int[]);
